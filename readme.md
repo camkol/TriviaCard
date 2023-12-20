@@ -8,3 +8,5 @@
    - jQuery
 
 ## Notes
+
+-Added page title
