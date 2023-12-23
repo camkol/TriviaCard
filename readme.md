@@ -9,4 +9,5 @@
 
 ## Notes
 
+-Improved responsiveness
 -Added page title
